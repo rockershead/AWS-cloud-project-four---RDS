@@ -56,5 +56,5 @@ variable "get_user_lambda_function_name" {
 variable "get_user_lambda_zip_filename" {
   type        = string
   description = "lambda zip filename"
-  default     = "get_user.zip"
+  default     = "get_users.zip"
 }
