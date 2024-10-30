@@ -1,11 +1,6 @@
 # AWS-cloud-project-four---RDS
 
-
-
-
-
-
-
+This simple project aims to create 2 lambda functions triggered by API_GATEWAY which will interact with a RDS table(mysql) hosted in AWS, within the default vpc.
 
 
 # Steps to deploy in aws
